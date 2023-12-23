@@ -1,4 +1,5 @@
 import "./App.css";
+import TabsStructure from "./components/custom-tabs/TabsStructure";
 // import ChangeTheme from "./components/change-theme/ChangeTheme";
 import ScrollIndicator from "./components/scroll-indicator/ScrollIndicator";
 // import QrCode from "./components/qr-code/QrCode";
@@ -22,7 +23,8 @@ function App() {
       {/* <TreeView menus={menus} /> */}
       {/* <QrCode/> */}
       {/* <ChangeTheme/> */}
-      <ScrollIndicator url={'https://dummyjson.com/products?limit=100'}/>
+      {/* <ScrollIndicator url={'https://dummyjson.com/products?limit=100'}/> */}
+      <TabsStructure/>
     </div>
   );
 }
