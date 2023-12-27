@@ -1,7 +1,7 @@
 import "./App.css";
 import TabsStructure from "./components/custom-tabs/TabsStructure";
 // import ChangeTheme from "./components/change-theme/ChangeTheme";
-import ScrollIndicator from "./components/scroll-indicator/ScrollIndicator";
+// import ScrollIndicator from "./components/scroll-indicator/ScrollIndicator";
 // import QrCode from "./components/qr-code/QrCode";
 // import LoadMoreData from './components/load-more-data/LoadMoreData';
 // import ImageSlider from './components/image-slider/ImageSlider';
